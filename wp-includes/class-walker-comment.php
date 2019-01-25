@@ -263,14 +263,6 @@ class Walker_Comment extends Walker {
 			$tag       = 'li';
 			$add_below = 'div-comment';
 		}
-
-		$commenter = wp_get_current_commenter();
-		if ( $commenter['comment_author_email'] ) {
-			$moderation_note = __( 'Your comment is awaiting moderation.' );
-		} else {
-			$moderation_note = __( 'Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved.' );
-		}
-
 		?>
 		<<?php echo $tag; ?> <?php comment_class( $this->has_children ? 'parent' : '', $comment ); ?> id="comment-<?php comment_ID(); ?>">
 		<?php if ( 'div' != $args['style'] ) : ?>
@@ -290,7 +282,7 @@ class Walker_Comment extends Walker {
 			?>
 		</div>
 		<?php if ( '0' == $comment->comment_approved ) : ?>
-		<em class="comment-awaiting-moderation"><?php echo $moderation_note; ?></em>
+		<em class="comment-awaiting-moderation"><?php _e( 'Your comment is awaiting moderation.' ); ?></em>
 		<br />
 		<?php endif; ?>
 
@@ -353,14 +345,6 @@ class Walker_Comment extends Walker {
 	 */
 	protected function html5_comment( $comment, $depth, $args ) {
 		$tag = ( 'div' === $args['style'] ) ? 'div' : 'li';
-
-		$commenter = wp_get_current_commenter();
-		if ( $commenter['comment_author_email'] ) {
-			$moderation_note = __( 'Your comment is awaiting moderation.' );
-		} else {
-			$moderation_note = __( 'Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved.' );
-		}
-
 		?>
 		<<?php echo $tag; ?> id="comment-<?php comment_ID(); ?>" <?php comment_class( $this->has_children ? 'parent' : '', $comment ); ?>>
 			<article id="div-comment-<?php comment_ID(); ?>" class="comment-body">
@@ -392,7 +376,7 @@ class Walker_Comment extends Walker {
 					</div><!-- .comment-metadata -->
 
 					<?php if ( '0' == $comment->comment_approved ) : ?>
-					<em class="comment-awaiting-moderation"><?php echo $moderation_note; ?></em>
+					<p class="comment-awaiting-moderation"><?php _e( 'Your comment is awaiting moderation.' ); ?></p>
 					<?php endif; ?>
 				</footer><!-- .comment-meta -->
 

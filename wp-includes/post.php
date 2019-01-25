@@ -292,7 +292,6 @@ function create_initial_post_types() {
 				'read'                   => 'edit_posts',
 				// You need to be able to publish posts, in order to create blocks.
 				'create_posts'           => 'publish_posts',
-				'edit_posts'             => 'edit_posts',
 				'edit_published_posts'   => 'edit_published_posts',
 				'delete_published_posts' => 'delete_published_posts',
 				'edit_others_posts'      => 'edit_others_posts',
@@ -392,7 +391,6 @@ function create_initial_post_types() {
 			'label'               => _x( 'Pending', 'request status' ),
 			'internal'            => true,
 			'_builtin'            => true, /* internal use only. */
-			'label_count'         => _n_noop( 'Pending <span class="count">(%s)</span>', 'Pending <span class="count">(%s)</span>' ),
 			'exclude_from_search' => false,
 		)
 	);
@@ -403,7 +401,6 @@ function create_initial_post_types() {
 			'label'               => _x( 'Confirmed', 'request status' ),
 			'internal'            => true,
 			'_builtin'            => true, /* internal use only. */
-			'label_count'         => _n_noop( 'Confirmed <span class="count">(%s)</span>', 'Confirmed <span class="count">(%s)</span>' ),
 			'exclude_from_search' => false,
 		)
 	);
@@ -414,7 +411,6 @@ function create_initial_post_types() {
 			'label'               => _x( 'Failed', 'request status' ),
 			'internal'            => true,
 			'_builtin'            => true, /* internal use only. */
-			'label_count'         => _n_noop( 'Failed <span class="count">(%s)</span>', 'Failed <span class="count">(%s)</span>' ),
 			'exclude_from_search' => false,
 		)
 	);
@@ -425,7 +421,6 @@ function create_initial_post_types() {
 			'label'               => _x( 'Completed', 'request status' ),
 			'internal'            => true,
 			'_builtin'            => true, /* internal use only. */
-			'label_count'         => _n_noop( 'Completed <span class="count">(%s)</span>', 'Completed <span class="count">(%s)</span>' ),
 			'exclude_from_search' => false,
 		)
 	);
@@ -512,7 +507,6 @@ function update_attached_file( $attachment_id, $file ) {
  * The path is relative to the current upload dir.
  *
  * @since 2.9.0
- * @access private
  *
  * @param string $path Full path to the file.
  * @return string Relative path on success, unchanged path on failure.
@@ -919,7 +913,6 @@ function get_page_statuses() {
  * Return statuses for privacy requests.
  *
  * @since 4.9.6
- * @access private
  *
  * @return array
  */
@@ -2488,7 +2481,6 @@ function unstick_post( $post_id ) {
  * Return the cache key for wp_count_posts() based on the passed arguments.
  *
  * @since 3.9.0
- * @access private
  *
  * @param string $type Optional. Post type to retrieve count Default 'post'.
  * @param string $perm Optional. 'readable' or empty. Default empty.
@@ -3373,7 +3365,7 @@ function wp_get_recent_posts( $args = array(), $output = ARRAY_A ) {
  *     @type int    $menu_order            The order the post should be displayed in. Default 0.
  *     @type string $post_mime_type        The mime type of the post. Default empty.
  *     @type string $guid                  Global Unique ID for referencing the post. Default empty.
- *     @type array  $post_category         Array of category IDs.
+ *     @type array  $post_category         Array of category names, slugs, or IDs.
  *                                         Defaults to value of the 'default_category' option.
  *     @type array  $tags_input            Array of tag names, slugs, or IDs. Default empty.
  *     @type array  $tax_input             Array of taxonomy terms keyed by their taxonomy name. Default empty.
@@ -4386,10 +4378,10 @@ function wp_set_post_terms( $post_id = 0, $tags = '', $taxonomy = 'post_tag', $a
  *
  * @param int       $post_ID         Optional. The Post ID. Does not default to the ID
  *                                   of the global $post. Default 0.
- * @param array|int $post_categories Optional. List of category IDs, or the ID of a single category.
+ * @param array|int $post_categories Optional. List of categories or ID of category.
  *                                   Default empty array.
- * @param bool      $append          If true, don't delete existing categories, just add on.
- *                                   If false, replace the categories with the new categories.
+ * @param bool      $append         If true, don't delete existing categories, just add on.
+ *                                  If false, replace the categories with the new categories.
  * @return array|false|WP_Error Array of term taxonomy IDs of affected categories. WP_Error or false on failure.
  */
 function wp_set_post_categories( $post_ID = 0, $post_categories = array(), $append = false ) {
@@ -4911,7 +4903,6 @@ function get_page_hierarchy( &$pages, $page_id = 0 ) {
  * $children contains parent-children relations
  *
  * @since 2.9.0
- * @access private
  *
  * @see _page_traverse_name()
  *

@@ -16,10 +16,8 @@
  * "special".
  *
  * @since 1.5.0
- * @since 5.1.0 Added the return value.
  *
  * @param string $name The name of the specialised header.
- * @return string The template filename if one is located.
  */
 function get_header( $name = null ) {
 	/**
@@ -40,7 +38,7 @@ function get_header( $name = null ) {
 
 	$templates[] = 'header.php';
 
-	return locate_template( $templates, true );
+	locate_template( $templates, true );
 }
 
 /**
@@ -53,10 +51,8 @@ function get_header( $name = null ) {
  * "special".
  *
  * @since 1.5.0
- * @since 5.1.0 Added the return value.
  *
  * @param string $name The name of the specialised footer.
- * @return string The template filename if one is located.
  */
 function get_footer( $name = null ) {
 	/**
@@ -77,7 +73,7 @@ function get_footer( $name = null ) {
 
 	$templates[] = 'footer.php';
 
-	return locate_template( $templates, true );
+	locate_template( $templates, true );
 }
 
 /**
@@ -90,10 +86,8 @@ function get_footer( $name = null ) {
  * "special".
  *
  * @since 1.5.0
- * @since 5.1.0 Added the return value.
  *
  * @param string $name The name of the specialised sidebar.
- * @return string The template filename if one is located.
  */
 function get_sidebar( $name = null ) {
 	/**
@@ -114,7 +108,7 @@ function get_sidebar( $name = null ) {
 
 	$templates[] = 'sidebar.php';
 
-	return locate_template( $templates, true );
+	locate_template( $templates, true );
 }
 
 /**
@@ -134,11 +128,9 @@ function get_sidebar( $name = null ) {
  * "special".
  *
  * @since 3.0.0
- * @since 5.1.0 Added the return value.
  *
  * @param string $slug The slug name for the generic template.
  * @param string $name The name of the specialised template.
- * @return string The template filename if one is located.
  */
 function get_template_part( $slug, $name = null ) {
 	/**
@@ -162,7 +154,7 @@ function get_template_part( $slug, $name = null ) {
 
 	$templates[] = "{$slug}.php";
 
-	return locate_template( $templates, true, false );
+	locate_template( $templates, true, false );
 }
 
 /**
@@ -2888,7 +2880,7 @@ function wp_no_robots() {
  *
  * Typical usage is as a wp_head callback. add_action( 'wp_head', 'wp_sensitive_page_meta' );
  *
- * @since 5.0.1
+ * @since 5.0.0
  */
 function wp_sensitive_page_meta() {
 	?>
@@ -2970,7 +2962,7 @@ function wp_resource_hints() {
 	 * The path is removed in the foreach loop below.
 	 */
 	/** This filter is documented in wp-includes/formatting.php */
-	$hints['dns-prefetch'][] = apply_filters( 'emoji_svg_url', 'https://s.w.org/images/core/emoji/11.2.0/svg/' );
+	$hints['dns-prefetch'][] = apply_filters( 'emoji_svg_url', 'https://s.w.org/images/core/emoji/11/svg/' );
 
 	foreach ( $hints as $relation_type => $urls ) {
 		$unique_urls = array();

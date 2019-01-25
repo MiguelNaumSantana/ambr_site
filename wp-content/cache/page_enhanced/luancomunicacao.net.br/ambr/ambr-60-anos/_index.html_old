@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head><link rel="stylesheet" type="text/css" href="http://luancomunicacao.net.br/ambr/wp-content/cache/minify/23a5c.css" media="all" />
+
+	<meta charset="UTF-8">
+			<title>AMBr 60 ANOS &#8211; AMBr &#8211; Associação Médica de Brasília</title>
+		                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Lato,sans-serif:400,700', 'Poppins:400', 'Allerta:400', 'Roboto:400', 'Oswald', 'Open+Sans,arial,sans-serif:400&subset=latin']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                        <link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/luancomunicacao.net.br\/ambr\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1-alpha-44483"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	
+<link rel='stylesheet' id='jetpack-email-subscribe-css'  href='https://c0.wp.com/p/jetpack/6.9/modules/shortcodes/css/jetpack-email-subscribe.css' type='text/css' media='all' />
+
+
+
+
+<link rel='stylesheet' id='bwg_googlefonts-css'  href='https://fonts.googleapis.com/css?family=Ubuntu&#038;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic' type='text/css' media='all' />
+
+
+
+
+
+
+
+
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COregano%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CBarlow+Condensed%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COswald%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.1-alpha-44483' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/6.9/css/jetpack.css' type='text/css' media='all' />
+<script type="text/javascript" src="http://luancomunicacao.net.br/ambr/wp-content/cache/minify/53e3e.js"></script>
+
+
+<link rel='https://api.w.org/' href='http://luancomunicacao.net.br/ambr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://luancomunicacao.net.br/ambr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://luancomunicacao.net.br/ambr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1-alpha-44483" />
+<link rel="canonical" href="http://luancomunicacao.net.br/ambr/ambr-60-anos/" />
+<link rel='shortlink' href='https://wp.me/PasKPX-A9' />
+<link rel="alternate" type="application/json+oembed" href="http://luancomunicacao.net.br/ambr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fluancomunicacao.net.br%2Fambr%2Fambr-60-anos%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://luancomunicacao.net.br/ambr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fluancomunicacao.net.br%2Fambr%2Fambr-60-anos%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//c0.wp.com'/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>			<style type="text/css">
+				html:not( .jetpack-lazy-images-js-enabled ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="AMBr 60 ANOS" />
+<meta property="og:url" content="http://luancomunicacao.net.br/ambr/ambr-60-anos/" />
+<meta property="og:description" content="“Muitos dizem que a AMBr não tem nada para oferecer. E ela tem oferecido muita coisa. O Clube do Médico está aí, os projetos científicos estão aí. Mas a meu ver, não é ela que tem a oferecer nada, …" />
+<meta property="article:published_time" content="2019-01-07T14:15:06+00:00" />
+<meta property="article:modified_time" content="2019-01-10T21:00:37+00:00" />
+<meta property="og:site_name" content="AMBr - Associação Médica de Brasília" />
+<meta property="og:image" content="http://luancomunicacao.net.br/ambr/wp-content/uploads/2018/12/ambr-60-anos-1024x519.png" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="519" />
+<meta property="og:locale" content="pt_BR" />
+<meta name="twitter:text:title" content="AMBr 60 ANOS" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="http://luancomunicacao.net.br/ambr/wp-content/uploads/2018/12/cropped-icone-sem-fundo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://luancomunicacao.net.br/ambr/wp-content/uploads/2018/12/cropped-icone-sem-fundo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://luancomunicacao.net.br/ambr/wp-content/uploads/2018/12/cropped-icone-sem-fundo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://luancomunicacao.net.br/ambr/wp-content/uploads/2018/12/cropped-icone-sem-fundo-270x270.png" />
+<style type="text/css" title="dynamic-css" class="options-output">.corTxt{color:#5f5f5f;}body{font-family:Lato,sans-serif;line-height:25px;font-weight:400;font-style:normal;color:#0f3958;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body,{opacity: 0;}.ie.wf-loading body,{visibility: hidden;}a{color:#1f5e8c;}a:hover{color:#1f5e8c;}.h1t{font-family:Lato,sans-serif;line-height:30px;font-weight:700;font-style:normal;color:#0f3958;font-size:30px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .h1t,{opacity: 0;}.ie.wf-loading .h1t,{visibility: hidden;}#HEADER-BOX-BG{background-color:transparent;}.topobarM{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}.topobarP{padding-top:5px;padding-right:20px;padding-bottom:5px;padding-left:0;}#TOPBAR-INT{background-color:#0f3958;}#TOPBAR-EXT{background-color:#0f3958;}.headerext{background-color:transparent;}.headerint{background-color:transparent;}#HEADER-BOX-BG{padding-top:0;}#menuP, #menuext, #menu-item, #cssmenu > ul > li > a{height:0px;}#cssmenu > ul > li {margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}.menuint{background-color:transparent;}.menuext{background-color:transparent;}#cssmenu ul li a{background-color:transparent;}#cssmenu ul li a:hover{background-color:transparent;}#cssmenu ul ul li a,#cssmenu .submenu-button.submenu-opened{background-color:transparent;}#cssmenu ul ul li a:hover{background-color:transparent;}#cssmenu > ul > li > a,#cssmenu > ul > li > a:active{font-family:Poppins;line-height:15px;font-weight:400;font-style:normal;color:#e0e0e0;font-size:13px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #cssmenu > ul > li > a,.wf-loading #cssmenu > ul > li > a:active,{opacity: 0;}.ie.wf-loading #cssmenu > ul > li > a,.ie.wf-loading #cssmenu > ul > li > a:active,{visibility: hidden;}#cssmenu > ul > li > a:hover{font-family:Poppins;line-height:15px;font-weight:400;font-style:normal;color:#e0e0e0;font-size:13px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #cssmenu > ul > li > a:hover,{opacity: 0;}.ie.wf-loading #cssmenu > ul > li > a:hover,{visibility: hidden;}#cssmenu ul ul li a{font-family:Poppins;line-height:15px;font-weight:400;font-style:normal;color:#e0e0e0;font-size:13px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #cssmenu ul ul li a,{opacity: 0;}.ie.wf-loading #cssmenu ul ul li a,{visibility: hidden;}#cssmenu ul ul li a:hover{font-family:Poppins;line-height:15px;font-weight:400;font-style:normal;color:#ffffff;font-size:13px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #cssmenu ul ul li a:hover,{opacity: 0;}.ie.wf-loading #cssmenu ul ul li a:hover,{visibility: hidden;}#cssmenu > ul > li,#cssmenu > ul > li:first-child{color:transparent;}#cssmenu ul ul li{border-top:0px none #ffffff;border-bottom:0px none #ffffff;border-left:0px none #ffffff;border-right:0px none #ffffff;}#cssmenu ul ul li:last-child > a,#cssmenu ul ul li.last-item > a {border-top:0px none #ffffff;border-bottom:0px none #ffffff;border-left:0px none #ffffff;border-right:0px none #ffffff;}.dl-menuwrapper button, .dl-menuwrapper button:hover,.dl-menuwrapper button.dl-active,.dl-menuwrapper ul{background-color:transparent;}.dl-menuwrapper li a{color:transparent;}#BANNER-INT{font-family:Allerta;line-height:20px;font-weight:400;font-style:normal;color:#ffffff;font-size:20px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #BANNER-INT,{opacity: 0;}.ie.wf-loading #BANNER-INT,{visibility: hidden;}#BANNER-EXT{background-color:transparent;background-repeat:no-repeat;background-size:cover;background-attachment:scroll;}#ALL-SITE{background-color:#ffffff;}#CONTENT-P{background-color:#ffffff;}#SIDEBAR-LEFT, #SIDEBAR-RIGHT{background-color:#ffffff;}#CONTEUDO{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}.cont-p-int{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;}#FOOTER-CONTENT{background-color:#124069;}#FOOTER-BAR{background-color:#343b49;}#FOOTER-CONTENT a,#FOOTER-CONTENT,#FOOTER-BAR{font-family:Allerta;line-height:20px;font-weight:400;font-style:normal;color:#fff;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #FOOTER-CONTENT a,.wf-loading #FOOTER-CONTENT,.wf-loading #FOOTER-BAR,{opacity: 0;}.ie.wf-loading #FOOTER-CONTENT a,.ie.wf-loading #FOOTER-CONTENT,.ie.wf-loading #FOOTER-BAR,{visibility: hidden;}#FOOTER-CONTENT h1{font-family:Allerta;line-height:20px;font-weight:400;font-style:normal;color:#ccc;font-size:15px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #FOOTER-CONTENT h1,{opacity: 0;}.ie.wf-loading #FOOTER-CONTENT h1,{visibility: hidden;}#FOOTER-CONTENT a:hover{color:#CCCCCC;}#FOOTER-BAR{font-family:Allerta;line-height:20px;font-weight:400;font-style:normal;color:#F2F2F2;font-size:12px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading #FOOTER-BAR,{opacity: 0;}.ie.wf-loading #FOOTER-BAR,{visibility: hidden;}#FOOTER-BAR a{color:#FFFFFF;}#FOOTER-BAR a:hover{color:#CCCCCC;}#searchform > div > div > a{background-color:#1565a0;}.widget{background-color:#FFF;}.widget{border-top:0px none #ffffff;border-bottom:0px none #ffffff;border-left:0px none #ffffff;border-right:0px none #ffffff;}.widget-title{font-family:Roboto;line-height:20px;font-weight:400;font-style:normal;color:#0f3958;font-size:18px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .widget-title,{opacity: 0;}.ie.wf-loading .widget-title,{visibility: hidden;}.postlistwidT{font-family:Roboto;line-height:20px;font-weight:400;font-style:normal;color:#0f3958;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .postlistwidT,{opacity: 0;}.ie.wf-loading .postlistwidT,{visibility: hidden;}.metapost{color:#1565a0;}.metatags{background-color:#1565a0;}#ALL-BODY-POST{background-color:#FFF;}#CONTENT-P-POST{background-color:#FFF;}#SIDEBAR-LEFT-POST, #SIDEBAR-RIGHT-POST{background-color:#f2f2f2;}#BANNER-EXT-CAT{background-color:#e6e6e6;}#ALL-BODY-PAGE{background-color:#FFF;}#CONTENT-P-PAGE{background-color:#FFF;}#SIDEBAR-LEFT-PAGE, #SIDEBAR-RIGHT-PAGE{background-color:#f2f2f2;}#BANNER-EXT-FRONT{background-color:#eaeaea;background-image:url('http://luancomunicacao.net.br/ambr/wp-content/themes/mwpresslite/assets/img/banner/1.jpg');}#BANNER-WOO{background-color:#eaeaea;background-image:url('http://luancomunicacao.net.br/ambr/wp-content/themes/mwpresslite/assets/img/banner/loja.jpg');}.plisth{font-family:Oswald;line-height:20px;font-weight:normal;font-style:normal;font-size:22px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .plisth,{opacity: 0;}.ie.wf-loading .plisth,{visibility: hidden;}.plisttxt{font-family:Open Sans,arial,sans-serif;text-align:justify;line-height:20px;font-weight:400;font-style:normal;color:#777;font-size:13px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .plisttxt,{opacity: 0;}.ie.wf-loading .plisttxt,{visibility: hidden;}.corP{color:#0f3958;}.corS{color:#1565a0;}.corT{color:#1383bf;}.corD{color:#5ab4f1;}.corTxt{color:#5f5f5f;}.corP{color:#0f3958;}.corS{color:#1565a0;}.corT{color:#1383bf;}.corD{color:#5ab4f1;}.corTxt{color:#5f5f5f;}</style>		<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+</head>
+<body class="page-template page-template-elementor_canvas page page-id-2241 elementor-default elementor-template-canvas elementor-page elementor-page-2241">
+			<div class="elementor elementor-2241">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="822a8e8" class="elementor-element elementor-element-822a8e8 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="0694413" class="elementor-element elementor-element-0694413 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="bfd4e52" class="elementor-element elementor-element-bfd4e52 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="519" src="http://luancomunicacao.net.br/ambr/wp-content/uploads/2018/12/ambr-60-anos-1024x519.png" class="attachment-large size-large jetpack-lazy-image" alt="" data-lazy-src="http://luancomunicacao.net.br/ambr/wp-content/uploads/2018/12/ambr-60-anos-1024x519.png?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />											</div>
+				</div>
+				</div>
+				<div data-id="d9f140e" class="elementor-element elementor-element-d9f140e elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="font-weight: 400;"><em>“Muitos dizem que a AMBr não tem nada para oferecer. E ela tem oferecido muita coisa. O Clube do Médico está aí, os projetos científicos estão aí. Mas a meu ver, não é ela que tem a oferecer nada, nós é que temos que oferecer a ela. Cabe a nós médicos, participarmos da Associação e torná-la cada vez mais forte”. </em></p><p style="font-weight: 400;"> </p></div>
+				</div>
+				</div>
+				<div data-id="1b3932c" class="elementor-element elementor-element-1b3932c elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="font-weight: 400;">Hélcio Luiz Miziara, anatomo-patologista.</p><p style="font-weight: 400;">Outubro de 2008</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="d3c10e4" class="elementor-element elementor-element-d3c10e4 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" id="informacoes" data-settings="{&quot;shape_divider_top&quot;:&quot;tilt&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}" data-element_type="section">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="924429a" class="elementor-element elementor-element-924429a elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="c974155" class="elementor-element elementor-element-c974155 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Uma casa de ideias<br>e de médicos</h2>		</div>
+				</div>
+				<div data-id="77a0b31" class="elementor-element elementor-element-77a0b31 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="font-weight: 400;">A AMBr se prepara para completar 60 anos de fundação.</p>
+<p style="font-weight: 400;">De uma pequena sala no Edifício Pioneiras Sociais ao complexo administrativo-social construído no Setor de Clubes Sul, a AMBr passou por diversos momentos e foi capitaneada por médicos ilustres como o ex-Presidente Juscelino Kubstichek. Sempre com o viés do ensino continuado e congregação dos médicos e suas famílias.&nbsp;</p><p style="font-weight: 400;"><span style="font-weight: 400; font-style: normal;">A AMBr é feita de ideias. Só está aqui, hoje, porque, há 60 anos, profissionais realmente comprometidos com o futuro da medicina do Distrito Federal tiveram uma grande ideia: formar uma entidade representativa para congregar os médicos da nova capital, que vinham de diversos pontos do país para discutir casos clínicos e avanços nas questões científicas inerentes ao trabalho a medicina; fazer dessa congregação fonte de lazer e diversão: e defender o interesses da classe médica que tinham em Brasília situações peculiares e diferentes do restante do país.</span></p><p style="font-weight: 400;"><span style="font-weight: 400; font-style: normal;">Após a criação da AMBr, em fevereiro em 1959, um ano antes da inauguração da nova capital, médicos continuavam a chegar na cidade para preencher os postos de trabalho. Boa parte deles, assim que chegavam à Brasília, procuravam a AMBr para tornarem-se associados. Era um modo de conhecer os colegas e de ter uma boa inserção, pois desde sua fundação, a Associação Médica de Brasília sempre foi referência de credibilidade.</span></p>
+<p style="font-weight: 400;">Por isso, ao comemorar os nossos 60 anos de história, olhamos para trás e para frente ao mesmo tempo. Pois desde o primeiro dia fomos vanguardistas, fomos capazes de guiar os médicos para um amanhã seguro e vitorioso. E continuaremos assim, crescendo juntos para anunciar um futuro de mais valor e reconhecimento para a nossa profissão.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="f8a8f68" class="elementor-element elementor-element-f8a8f68 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" id="celebracoes" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="614795c" class="elementor-element elementor-element-614795c elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="870e482" class="elementor-element elementor-element-870e482 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Celebrações</h2>		</div>
+				</div>
+				<div data-id="dd237d3" class="elementor-element elementor-element-dd237d3 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Programação fevereiro 2019</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="91c45c3" class="elementor-element elementor-element-91c45c3 elementor-section-content-middle elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="b735c26" class="elementor-element elementor-element-b735c26 elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="18cad0d" class="elementor-element elementor-element-18cad0d elementor-flip-box--effect-flip elementor-flip-box--direction-up elementor-widget elementor-widget-flip-box" data-element_type="flip-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+						
+											</div>
+				</div>
+			</div>
+			<div class="elementor-flip-box__layer elementor-flip-box__back">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<a class="elementor-flip-box__button elementor-button elementor-size-xs" href="http://luancomunicacao.net.br/ambr/wp-content/uploads/2019/01/Convite-sessão-solene-e-orquestra.png">
+						Agenda						</a>
+								</div>
+		</div>
+		</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="eff1adb" class="elementor-element elementor-element-eff1adb elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="671b9e0" class="elementor-element elementor-element-671b9e0 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">7 - Quinta feira</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="5a199da" class="elementor-element elementor-element-5a199da elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="be1d14c" class="elementor-element elementor-element-be1d14c elementor-flip-box--effect-flip elementor-flip-box--direction-up elementor-widget elementor-widget-flip-box" data-element_type="flip-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+						
+											</div>
+				</div>
+			</div>
+			<div class="elementor-flip-box__layer elementor-flip-box__back">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<a class="elementor-flip-box__button elementor-button elementor-size-xs" href="http://luancomunicacao.net.br/ambr/wp-content/uploads/2019/01/PEC60ANOS_TECNOLOGIAEVIDA_PROGRAMAÇÃO_EMAILMARKETING_Artboard-1.png">
+						Agenda						</a>
+								</div>
+		</div>
+		</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="81a1189" class="elementor-element elementor-element-81a1189 elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="d27589e" class="elementor-element elementor-element-d27589e elementor-flip-box--effect-flip elementor-flip-box--direction-up elementor-widget elementor-widget-flip-box" data-element_type="flip-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+						
+											</div>
+				</div>
+			</div>
+			<div class="elementor-flip-box__layer elementor-flip-box__back">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<a class="elementor-flip-box__button elementor-button elementor-size-xs" href="http://luancomunicacao.net.br/ambr/wp-content/uploads/2019/01/pec-e-baile-mesma-foto2.png">
+						Agenda						</a>
+								</div>
+		</div>
+		</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="9daa8dd" class="elementor-element elementor-element-9daa8dd elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3d81fb1" class="elementor-element elementor-element-3d81fb1 elementor-flip-box--effect-flip elementor-flip-box--direction-up elementor-widget elementor-widget-flip-box" data-element_type="flip-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+						
+											</div>
+				</div>
+			</div>
+			<div class="elementor-flip-box__layer elementor-flip-box__back">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<a class="elementor-flip-box__button elementor-button elementor-size-xs" href="http://luancomunicacao.net.br/ambr/wp-content/uploads/2019/01/convite-churrasco.png">
+						Agenda						</a>
+								</div>
+		</div>
+		</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="fe6913e" class="elementor-element elementor-element-fe6913e elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="cf54df7" class="elementor-element elementor-element-cf54df7 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="90887ac" class="elementor-element elementor-element-90887ac elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" id="eventosEsportivos" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;tilt&quot;}" data-element_type="section">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="bb6152e" class="elementor-element elementor-element-bb6152e elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="b326d7e" class="elementor-element elementor-element-b326d7e elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Eventos esportivos</h2>		</div>
+				</div>
+				<div data-id="e3758ce" class="elementor-element elementor-element-e3758ce elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>O Torneio de Esportes AMBr 60 anos está oficialmente no ar! <br />As inscrições estarão disponíveis na Secretaria da Associação no dia 14 de janeiro e os jogos ocorrerão do dia 1 ao dia 10 de fevereiro.</p></div>
+				</div>
+				</div>
+				<section data-id="5e5caf4" class="elementor-element elementor-element-5e5caf4 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="94e982e" class="elementor-element elementor-element-94e982e elementor-column elementor-col-100 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="284e7b8" class="elementor-element elementor-element-284e7b8 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Modalidades</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="5aa920d" class="elementor-element elementor-element-5aa920d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="5191b7d" class="elementor-element elementor-element-5191b7d elementor-column elementor-col-100 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="e1e6d81" class="elementor-element elementor-element-e1e6d81 elementor-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-element_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+					<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i class="fa fa-futbol-o" aria-hidden="true"></i>
+				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Futebol Society (masculino)</span>
+				</h3>
+				<p class="elementor-icon-box-description">Máximo de equipes: 8<br>
+Máximo de atletas por equipe: 11<br>
+Atletas em campo: 5 na linha e 1 goleiro<br>
+Inscrições: por equipe<br>
+*Somente médicos</p>
+			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="a83cd3e" class="elementor-element elementor-element-a83cd3e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="da27bfe" class="elementor-element elementor-element-da27bfe elementor-column elementor-col-100 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="d2dc474" class="elementor-element elementor-element-d2dc474 elementor-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-element_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+					<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i class="fa fa-female" aria-hidden="true"></i>
+				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Futebol Society (feminino)</span>
+				</h3>
+				<p class="elementor-icon-box-description">Máximo de equipes: 4<br>
+Máximo de atletas por equipe: 11<br>
+Atletas em campo: 5 na linha e 1 goleiro<br>
+Inscrições: por equipe<br>
+*Somente estudantes de medicina</p>
+			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="26d9bbc" class="elementor-element elementor-element-26d9bbc elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="e2950e5" class="elementor-element elementor-element-e2950e5 elementor-column elementor-col-100 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7aff9f7" class="elementor-element elementor-element-7aff9f7 elementor-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-element_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+					<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i class="fa fa-neuter" aria-hidden="true"></i>
+				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Tênis</span>
+				</h3>
+				<p class="elementor-icon-box-description">Máximo de atletas: 60<br>
+Torneio: duplas e individual <br>
+Inscrições: Somente médicos<br>
+Inscrições por duplas e individual<br>
+</p>
+			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="8574bbb" class="elementor-element elementor-element-8574bbb elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="bdaacda" class="elementor-element elementor-element-bdaacda elementor-column elementor-col-100 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="ae128f2" class="elementor-element elementor-element-ae128f2 elementor-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-element_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+					<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i class="fa fa-trophy" aria-hidden="true"></i>
+				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Peteca</span>
+				</h3>
+				<p class="elementor-icon-box-description">Máximo de atletas: 40<br>
+Somente duplas<br>
+Somente médicos e convidados (mediante aprovação)<br>
+</p>
+			</div>
+		</div>
+				</div>
+				</div>
+				<div data-id="c98967f" class="elementor-element elementor-element-c98967f elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Como se inscrever?<br />A partir do dia 14 de janeiro, na Secretaria da AMBr. A inscrição é gratuita em todas as modalidades. <br />Premiação: Medalhas e troféus no dia 10/02, às 15h, no Espaço Prime.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				<div data-id="34af8bb" class="elementor-element elementor-element-34af8bb elementor-column elementor-col-66 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="315266bf" class="elementor-element elementor-element-315266bf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="1dbd6708" class="elementor-element elementor-element-1dbd6708 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="6576cd05" class="elementor-element elementor-element-6576cd05 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="130" src="http://luancomunicacao.net.br/ambr/wp-content/uploads/2018/11/WhatsApp-Image-2018-11-23-at-16.36.18-300x130.png" class="attachment-medium size-medium jetpack-lazy-image" alt="" data-lazy-src="http://luancomunicacao.net.br/ambr/wp-content/uploads/2018/11/WhatsApp-Image-2018-11-23-at-16.36.18-300x130.png?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />											</div>
+				</div>
+				</div>
+				<div data-id="2aac5026" class="elementor-element elementor-element-2aac5026 elementor-shape-circle elementor-widget elementor-widget-social-icons" data-element_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook" href="https://www.facebook.com/AMBr.DF" target="_blank">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fa fa-facebook"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram" href="https://www.instagram.com/ambr.df/" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fa fa-instagram"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube" href="https://www.youtube.com/user/assomedicadebrasilia" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fa fa-youtube"></i>
+				</a>
+					</div>
+				</div>
+				</div>
+				<div data-id="5b76bc88" class="elementor-element elementor-element-5b76bc88 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">© Copyright 2019. AMBr - Associação Médica de Brasilia</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+			<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201902'></script>
+
+
+
+<script type="text/javascript" src="http://luancomunicacao.net.br/ambr/wp-content/cache/minify/2c89c.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"Este n\u00e3o \u00e9 um endere\u00e7o de email v\u00e1lido. ","bwg_search_result":"N\u00e3o h\u00e1 imagens que correspondem \u00e0 sua pesquisa.","is_pro":""};
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="http://luancomunicacao.net.br/ambr/wp-content/cache/minify/4ae01.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Pesquisar","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Exibir Coment\u00e1rios","bwg_hide_comments":"Ocultar Coment\u00e1rios.","bwg_restore":"Restaurar","bwg_maximize":"Maximize","bwg_fullscreen":"Tela Cheia","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pausa","is_pro":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://luancomunicacao.net.br/ambr/wp-content/cache/minify/fa9b0.js"></script>
+
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Janaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/6.9/modules/wpgroho.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/6.9/_inc/build/lazy-images/js/lazy-images.min.js'></script>
+
+<script type="text/javascript" src="http://luancomunicacao.net.br/ambr/wp-content/cache/minify/50c1a.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/luancomunicacao.net.br\/ambr\/wp-admin\/admin-ajax.php","nonce":"10694a7cb2","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"pt_BR","app_id":""}};
+/* ]]> */
+</script>
+
+
+
+
+<script type="text/javascript" src="http://luancomunicacao.net.br/ambr/wp-content/cache/minify/8887d.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.3.8","urls":{"assets":"http:\/\/luancomunicacao.net.br\/ambr\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":2241,"title":"AMBr 60 ANOS","excerpt":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://luancomunicacao.net.br/ambr/wp-content/cache/minify/e6cda.js"></script>
+
+<script type='text/javascript' src='https://stats.wp.com/e-201902.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.9',blog:'154616589',post:'2241',tz:'0',srv:'luancomunicacao.net.br'} ]);
+	_stq.push([ 'clickTrackerInit', '154616589', '2241' ]);
+</script>
+	</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 26/58 objects using disk
+Page Caching using disk: enhanced 
+Minified using disk
+Database Caching 5/14 queries in 0.016 seconds using disk
+
+Served from: luancomunicacao.net.br @ 2019-01-11 13:34:15 by W3 Total Cache
+-->

@@ -1,0 +1,1 @@
+Ал8\<?php exit; ?>a:1:{s:7:"content";s:60:"{"common.install":1547212423,"minify.hide_minify_help":true}";}

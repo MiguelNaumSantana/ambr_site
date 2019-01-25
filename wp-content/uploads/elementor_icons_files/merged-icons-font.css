@@ -1,0 +1,21 @@
+i.eci{ 
+display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+     }
+@font-face {
+ font-family: 'font693022313';
+  src: url('/fontello.eot?1298821665');
+  src: url('/fontello.eot?1298821665#iefix') format('embedded-opentype'),
+       url('/fontello.woff2?1298821665') format('woff2'),
+       url('/fontello.woff?1298821665') format('woff'),
+       url('/fontello.ttf?1298821665') format('truetype'),
+       url('/fontello.svg?1298821665#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
