@@ -3058,12 +3058,17 @@ function wp_targeted_link_rel_callback( $matches ) {
 	/**
 	 * Filters the rel values that are added to links with `target` attribute.
 	 *
-	 * @since 5.0.0
+	 * @since 5.1.0
 	 *
 	 * @param string The rel values.
 	 * @param string $link_html The matched content of the link tag including all HTML attributes.
 	 */
 	$rel = apply_filters( 'wp_targeted_link_rel', 'noopener noreferrer', $link_html );
+
+	// Avoid additional regex if the filter removes rel values.
+	if ( ! $rel ) {
+		return "<a $link_html>";
+	}
 
 	// Value with delimiters, spaces around are optional.
 	$attr_regex = '|rel\s*=\s*?(\\\\{0,1}["\'])(.*?)\\1|i';
@@ -5398,7 +5403,7 @@ function _print_emoji_detection_script() {
 		 *
 		 * @param string The emoji base URL for png images.
 		 */
-		'baseUrl' => apply_filters( 'emoji_url', 'https://s.w.org/images/core/emoji/11/72x72/' ),
+		'baseUrl' => apply_filters( 'emoji_url', 'https://s.w.org/images/core/emoji/11.2.0/72x72/' ),
 
 		/**
 		 * Filters the extension of the emoji png files.
@@ -5416,7 +5421,7 @@ function _print_emoji_detection_script() {
 		 *
 		 * @param string The emoji base URL for svg images.
 		 */
-		'svgUrl'  => apply_filters( 'emoji_svg_url', 'https://s.w.org/images/core/emoji/11/svg/' ),
+		'svgUrl'  => apply_filters( 'emoji_svg_url', 'https://s.w.org/images/core/emoji/11.2.0/svg/' ),
 
 		/**
 		 * Filters the extension of the emoji SVG files.
@@ -5540,7 +5545,7 @@ function wp_staticize_emoji( $text ) {
 	}
 
 	/** This filter is documented in wp-includes/formatting.php */
-	$cdn_url = apply_filters( 'emoji_url', 'https://s.w.org/images/core/emoji/11/72x72/' );
+	$cdn_url = apply_filters( 'emoji_url', 'https://s.w.org/images/core/emoji/11.2.0/72x72/' );
 
 	/** This filter is documented in wp-includes/formatting.php */
 	$ext = apply_filters( 'emoji_ext', '.png' );
